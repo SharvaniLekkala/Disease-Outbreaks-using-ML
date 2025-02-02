@@ -92,7 +92,7 @@ This will open a browser where users can interact with the disease prediction sy
 
 ## Author
 
-[Sharvani] - AI & Data Science Enthusiast
+Sharvani - AI & Data Science Enthusiast
 
 ---
 
